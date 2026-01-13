@@ -1,15 +1,15 @@
-Task: Restaurant Chains Analysis
+# Task: Restaurant Chains Analysis
 
-Objective:
+# Objective:
 Identify restaurant chains in the dataset and analyze their ratings
 and popularity.
 
-Approach:
+# Approach:
 - Identified chains by repeated restaurant names
 - Calculated outlet count, average ratings, and total votes
 - Compared popularity and performance of chains
 
-Conclusion:
+# Conclusion:
 Popular restaurant chains generally have higher customer engagement,
 though average ratings vary across chains, indicating differences
 in quality consistency.
